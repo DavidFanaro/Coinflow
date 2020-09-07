@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RestEssentials",
+        "repositoryURL": "https://github.com/sean7512/RestEssentials.git",
+        "state": {
+          "branch": null,
+          "revision": "245e23962628c2380a487a70b45f49ef9bc27395",
+          "version": "5.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
